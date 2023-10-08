@@ -55,4 +55,4 @@ api.add_resource(HelloWorld, '/')
 api.add_resource(Recommender, '/search/<string:name>')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='10.11.104.138', port=5000)
