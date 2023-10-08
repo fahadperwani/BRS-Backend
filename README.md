@@ -19,15 +19,9 @@ The Book Recommender System is an innovative solution designed to help readers d
 1. Clone the repositories:
 
    - Frontend (Flutter app):
-     ```bash
-     git clone https://github.com/your-username/Book-Recommender-Frontend.git
-     cd Book-Recommender-Frontend
-     ```
+     git clone https://github.com/kubra-Ghafoor/Book_Recommendation_System
    - Backend (Flask server):
-     ```bash
-     git clone https://github.com/your-username/Book-Recommender-Backend.git
-     cd Book-Recommender-Backend
-     ```
+     git clone https://github.com/fahadperwani/BRS-Backend
 
 2. Set up the backend:
 
